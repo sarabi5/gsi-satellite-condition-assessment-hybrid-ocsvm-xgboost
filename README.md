@@ -2,13 +2,13 @@
 
 Code accompanying the manuscript *"Satellite-Based Condition Assessment of Urban Green Stormwater Infrastructure Using a Hybrid Machine Learning Framework."*
 
-This repository contains the pipeline for processing PlanetScope imagery and Philadelphia Water Department (PWD) inspection data into site-level features and training the hybrid OCSVM–XGBoost classification framework, including ablation and SHAP analyses.
+This repository contains the pipeline for processing PlanetScope imagery and inspection data into site-level features and training the hybrid OCSVM–XGBoost classification framework, including ablation and SHAP analyses.
 
 ## Data Availability
 
 This repository does not include:
 - **PlanetScope imagery**, obtained through Planet Labs' Education and Research Program and not permitted for redistribution.
-- **PWD inspection records**, provided by Philadelphia Water Department and not publicly available.
+- **inspection records**, provided by Philadelphia Water Department and not publicly available.
 
 ## Repository Structure
 
