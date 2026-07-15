@@ -13,3 +13,4 @@ imbalanced-learn
 xgboost
 shap
 matplotlib
+contextily
