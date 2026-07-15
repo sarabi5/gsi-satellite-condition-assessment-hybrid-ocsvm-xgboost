@@ -36,7 +36,7 @@ src/
 │                                    # hybrid model
 └── visualization/
     └── performance_figures.py      # Summary bar charts of model
-                                     # performance across inspection targets
+    └── site_distribution_map.py    # visualize GSI locations
 ```
 
 ## Setup
