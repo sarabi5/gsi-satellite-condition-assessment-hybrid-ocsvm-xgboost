@@ -56,13 +56,13 @@ cp .env.example .env
 
 Run scripts in the following order:
 
-1. planet_download.py — acquire PlanetScope imagery
-2. extract_pixel_values.py — extract spectral values
-3. compute_spectral_indices.py — calculate spectral indices
-4. build_site_features.py — generate site-level features
-5. ocsvm_xgboost_pipeline.py — train and evaluate the hybrid model
-6. ablation_study.py — compare model variants
-7. shap_analysis.py — generate feature importance results
+1. planet_download.py: acquire PlanetScope imagery
+2. extract_pixel_values.py: extract spectral values
+3. compute_spectral_indices.py: calculate spectral indices
+4. build_site_features.py: generate site-level features
+5. ocsvm_xgboost_pipeline.py: train and evaluate the hybrid model
+6. ablation_study.py: compare model variants
+7. shap_analysis.py: generate feature importance results
 
 Paths should be updated in each script configuration section before execution.
 
